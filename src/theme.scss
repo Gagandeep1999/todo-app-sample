@@ -1,0 +1,235 @@
+
+.light{
+    border-radius: 36px;
+    background: #eaeaea;
+    box-shadow:  7px 7px 14px #bebebe, 
+                 -7px -7px 14px #ffffff;
+    color: #00001a;
+}
+
+.light-bg{
+    background: #eaeaea;
+}
+
+.light-input {
+    border-radius: 36px;
+    background: #eaeaea;
+    box-shadow: inset 7px 7px 15px #bebebe, 
+                inset -7px -7px 15px #ffffff;
+    color: #00001a;
+}
+
+.light-btn {
+    border-radius: 36px;
+    background: linear-gradient(145deg, #d3d3d3, #fafafa);
+    box-shadow:  1px 1px 0px #bebebe, 
+                -1px -1px 0px #ffffff;
+    color: #00001a;
+}
+
+
+.dark {
+    border-radius: 36px;
+    background: #2a2a2a;
+    box-shadow:  7px 7px 14px #222222, 
+    -7px -7px 14px #323232;
+    color: #eeeeee;
+}
+
+.dark-bg {
+    background: #2a2a2a;
+}
+
+.dark-input {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: #2a2a2a;
+    box-shadow: inset 7px 7px 15px #222222, 
+                inset -7px -7px 15px #323232;
+    
+}
+
+.dark-btn {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: linear-gradient(145deg, #262626, #2d2d2d);
+    box-shadow:  1px 1px 0px #222222, 
+                 -1px -1px 0px #323232;
+}
+
+.sky-green{
+    border-radius: 36px;
+    background: #008080;
+    box-shadow:  7px 7px 14px #006868, 
+    -7px -7px 14px #009898;
+    color: #eeeeee;
+    
+}
+
+.sky-green-bg{
+    background: #008080;
+}
+
+.sky-green-input {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: #008080;
+    box-shadow: inset 7px 7px 15px #006868, 
+                inset -7px -7px 15px #009898;
+    
+}
+
+.sky-green-btn {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: linear-gradient(145deg, #007373, #008989);
+    box-shadow:  1px 1px 0px #006868, 
+                 -1px -1px 0px #009898;
+
+}
+
+.light-red {
+    border-radius: 36px;
+    background: #ff8080;
+    box-shadow:  7px 7px 15px #cf6868, 
+    -7px -7px 15px #ff9898;
+    color: #eeeeee;
+}
+
+.light-red-bg {
+    background: #ff8080;
+}
+
+.light-red-input {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: #ff8080;
+    box-shadow: inset 7px 7px 15px #cf6868, 
+                inset -7px -7px 15px #ff9898;
+    
+}
+
+.light-red-btn {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: linear-gradient(145deg, #e67373, #ff8989);
+    box-shadow:  1px 1px 0px #cf6868, 
+                 -1px -1px 0px #ff9898;
+}
+
+.dark-red {
+    border-radius: 36px;
+    background: #800000;
+    box-shadow:  7px 7px 15px #680000, 
+                -7px -7px 15px #980000;
+    color: #eeeeee;
+}
+
+.dark-red-bg {
+    background: #800000;
+}
+
+.dark-red-input{
+    color: #eeeeee;
+    border-radius: 36px;
+    background: #800000;
+    box-shadow: inset 7px 7px 15px #680000, 
+                inset -7px -7px 15px #980000;
+    
+}
+
+.dark-red-btn {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: linear-gradient(145deg, #730000, #890000);
+    box-shadow:  1px 1px 0px #680000, 
+                 -1px -1px 0px #980000;
+
+}
+
+.pink {
+    border-radius: 36px;
+    background: #ff80c0;
+    box-shadow:  7px 7px 15px #cf689c, 
+    -7px -7px 15px #ff98e4;
+    color: #eeeeee;
+}
+
+.pink-bg {
+    background: #ff80c0;
+}
+
+.pink-input {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: #ff80c0;
+    box-shadow: inset 7px 7px 15px #cf689c, 
+                inset -7px -7px 15px #ff98e4;
+    
+}
+
+.pink-btn {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: linear-gradient(145deg, #e673ad, #ff89cd);
+    box-shadow:  1px 1px 0px #cf689c, 
+                 -1px -1px 0px #ff98e4;
+
+}
+
+.orange {
+    border-radius: 36px;
+    background: #ff732f;
+    box-shadow:  7px 7px 15px #cf5d26, 
+    -7px -7px 15px #ff8938;
+    color: #00001f;
+}
+
+.orange-bg {
+    background: #ff732f;
+}
+
+.orange-input{
+    color: #00001a;
+    border-radius: 36px;
+    background: #ff732f;
+    box-shadow: inset 7px 7px 15px #cf5d26, 
+                inset -7px -7px 15px #ff8938;
+}
+
+.orange-btn {
+    color: #00001a;
+    border-radius: 36px;
+    background: linear-gradient(145deg, #e6682a, #ff7b32);
+    box-shadow:  1px 1px 0px #cf5d26, 
+                 -1px -1px 0px #ff8938;
+}
+
+.sky-blue{
+    border-radius: 36px;
+    background: #0080c0;
+    box-shadow:  7px 7px 15px #00689c, 
+                -7px -7px 15px #0098e4;
+    color: #eeeeee;
+}
+
+.sky-blue-bg {
+    background: #0080c0;
+}
+
+.sky-blue-input{
+    color: #eeeeee;
+    border-radius: 36px;
+    background: #0080c0;
+    box-shadow: inset 7px 7px 15px #00689c, 
+                inset -7px -7px 15px #0098e4;
+}
+
+.sky-blue-btn {
+    color: #eeeeee;
+    border-radius: 36px;
+    background: linear-gradient(145deg, #0073ad, #0089cd);
+    box-shadow:  1px 1px 0px #00689c, 
+                 -1px -1px 0px #0098e4;
+
+}
